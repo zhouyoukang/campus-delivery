@@ -1,0 +1,6 @@
+node_modules/
+.next/
+out/
+dist/
+data/*.json
+!data/_seed.json
