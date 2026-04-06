@@ -1,0 +1,10 @@
+{
+  "name": "校园外卖",
+  "short_name": "校园外卖",
+  "description": "校园美食 · 一键送达",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f97316",
+  "theme_color": "#f97316",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
